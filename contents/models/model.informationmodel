@@ -1,7 +1,7 @@
 vortolang 1.0
 namespace io.theves.examples
 version 3.0.0
-displayname "Sascha`s VirtualDemoDevice"
+displayname "VirtualDemoDevice"
 description "Information model of a virtual demo device for the Bosch IoT Suite which you can open in your smartphone or web browser"
 
 using com.bosch.iot.suite.example.octopussuiteedition.Magnetometer;1.1.0

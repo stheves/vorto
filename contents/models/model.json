@@ -1340,16 +1340,16 @@
         }
       ]
     },
-    "com.bosch.iot.suite.example:VirtualDemoDevice:2.0.0": {
+    "io.theves.examples:VirtualDemoDevice:3.0.0": {
       "targetPlatformKey": null,
       "stereotypes": [],
       "mappingReference": null,
       "vortolang": "1.0",
       "id": {
         "name": "VirtualDemoDevice",
-        "namespace": "com.bosch.iot.suite.example",
-        "version": "2.0.0",
-        "prettyFormat": "com.bosch.iot.suite.example:VirtualDemoDevice:2.0.0"
+        "namespace": "io.theves.examples",
+        "version": "3.0.0",
+        "prettyFormat": "com.bosch.iot.suite.example:VirtualDemoDevice:3.0.0"
       },
       "type": "InformationModel",
       "displayName": "VirtualDemoDevice",
